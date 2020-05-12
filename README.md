@@ -1,4 +1,4 @@
-
+# TypeScript fundementals
 ## Notes from learning basic TypeScript topics.
 ### Covered topics: 
 - Basic types
